@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi! I'm Daniel.
 
-<!--
-**daesnorey/daesnorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working on Xamarin Android.
+💬 Ask me about web frameworks such as React and Angular, backend Languages like Java, C#, PHP, Python, Kotlin and Swift.
+📫 How to reach me: @daesnorey on twitter.
+⚡ Fun fact: I used to practice BMX.
 
-Here are some ideas to get you started:
+Hola! soy Daniel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Actualmente estoy trabajando con Xamarin Android.
+💬 Preguntame sobre frameworks de la web como React y Angular, Lenguajes para backend como Java, C#, PHP, Python, Kotlin y Swift.
+📫 Como contactarme: @daesnorey en twitter.
+⚡ Dato curioso: Solia practicar BMX.
