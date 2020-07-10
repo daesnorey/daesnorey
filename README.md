@@ -1,7 +1,7 @@
 Hi! I'm Daniel.
 
-🔭 I'm currently working on Xamarin Android.
-💬 Ask me about web frameworks such as React and Angular, backend Languages like Java, C#, PHP, Python, Kotlin and Swift.
+- 🔭 I'm currently working on Xamarin Android.
+- 💬 Ask me about web frameworks such as React and Angular, backend Languages like Java, C#, PHP, Python, Kotlin and Swift.
 📫 How to reach me: @daesnorey on twitter.
 ⚡ Fun fact: I used to practice BMX.
 
