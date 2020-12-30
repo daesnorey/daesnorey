@@ -1,13 +1,13 @@
 Hi! I'm Daniel.
 
-- 🔭 I'm currently working on Xamarin Android.
+- 🔭 I'm currently working on Ionic/Capacitor.
 - 💬 Ask me about web frameworks such as React and Angular, backend Languages like Java, C#, PHP, Python, Kotlin and Swift.
 - 📫 How to reach me: @daesnorey on twitter.
 - ⚡ Fun fact: I used to practice BMX.
 
 Hola! soy Daniel.
 
-- 🔭 Actualmente estoy trabajando con Xamarin Android.
+- 🔭 Actualmente estoy trabajando con Ionic/Capacitor.
 - 💬 Preguntame sobre frameworks de la web como React y Angular, Lenguajes para backend como Java, C#, PHP, Python, Kotlin y Swift.
 - 📫 Como contactarme: @daesnorey en twitter.
 - ⚡ Dato curioso: Solia practicar BMX.
